@@ -1,2 +1,2 @@
-## ImageAdaptationService.php
+### ImageAdaptationService.php
 Класс для обработки изображений в определённые форматы из настроек
